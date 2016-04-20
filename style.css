@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Asap:400,700);
+body {
+  margin: auto;
+  background-color: 	#FDF5E6;
+
+}
+header h1 {
+  text-align: center;
+  margin: auto;
+  font-family: "Rock Salt";
+  font-weight: 400;
+  font-size: 80px;
+  color:	#A00000 ;
+  border-style: double;
+  border-color: 	#6B8E23;
+  border-width: thick;
+
+}
+header h2 {
+  text-align: center;
+  margin: auto;
+  font-family: "Rock Salt";
+  font-weight:400;
+  font-size: 50px;
+  color:	#A00000 ;
+  border box-sizing: center;
+  padding: inherit;
+}
+
+h3{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: "Asap";
+}
+h4{
+  font-size: 28px;
+  font-weight: bolder;
+font-family: "Rock Salt";
+color: 	#6B8E23;
+}
+
+nav {
+  margin: 0 auto;
+  width: 600px;
+  padding top: : 10px 0;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+nav a {
+  margin:30px;
+    font-family: "Asap";
+  color: 	#6B8E23	;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+#beancenter {
+  width: 1000px;
+  margin: auto;
+  padding-top: 20px;
+  text-align: center;
+}
+#center{
+  width: 1000px;
+  margin: auto;
+padding-top: 20px;
+}
+
+p{
+  font-family: "Asap";
+  font-size: 26px;
+  text-align: left;
+}
+ul{
+  font-family: "Asap";
+  font-size: 25px;
+
+
+}
