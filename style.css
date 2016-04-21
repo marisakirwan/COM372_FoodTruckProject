@@ -29,7 +29,7 @@ header h2 {
 }
 
 h3{
-  font-size: 30px;
+  font-size: 34px;
   font-weight: bolder;
   font-family: "Asap";
 }
@@ -38,6 +38,7 @@ h4{
   font-weight: bolder;
 font-family: "Rock Salt";
 color: 	#6B8E23;
+text-align: left;
 }
 
 nav {
@@ -66,6 +67,9 @@ nav a {
   width: 1000px;
   margin: auto;
 padding-top: 20px;
+}
+#chilicenter{
+  text-align: center;
 }
 
 p{
